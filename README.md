@@ -7,7 +7,7 @@ I'm a passionate Software Engineer. With a Bachelor's degree in Information Scie
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sakthi1904s@gmail.com)
 
 
-### 🔧 Technical Skills
+### 🔧 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat&logo=c%2B%2B&logoColor=white)
