@@ -7,7 +7,7 @@
 
 ### 💫 About Me
 
- Software Engineer with 1+ years of experience in Python, JavaScript, ReactJS , C and C++ specializing in automation tools, system-level applications, and web-based solutions. Proficient in API integration, DevOps practices, web development and network Management. Aspiring roles: Full Stack Developer, Software Engineer, Python Developer.
+ Software Engineer with 1+ years of experience in Python, JavaScript, ReactJS , C and C++ specializing in automation tools, system-level applications, and web-based solutions. Proficient in API integration, DevOps practices, web development and network Management. 
 
 
 
