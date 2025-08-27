@@ -7,7 +7,7 @@
 
 ### 💫 About Me
 
-I'm a passionate Software Engineer with a Bachelor's degree in Information Science and Engineering. I have hands-on experience in network automation, web development, and full-stack development. I thrive on solving complex problems and delivering robust solutions.
+ Software Engineer with 1+ years of experience in Python, JavaScript, ReactJS , C and C++ specializing in automation tools, system-level applications, and web-based solutions. Proficient in API integration, DevOps practices, web development and network Management. Aspiring roles: Full Stack Developer, Software Engineer, Python Developer.
 
 
 
